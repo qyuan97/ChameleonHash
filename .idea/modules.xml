@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ChameleonHash.iml" filepath="$PROJECT_DIR$/.idea/ChameleonHash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ChameleonHash2.iml" filepath="$PROJECT_DIR$/.idea/ChameleonHash2.iml" />
     </modules>
   </component>
 </project>

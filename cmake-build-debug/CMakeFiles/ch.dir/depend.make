@@ -53,6 +53,7 @@ CMakeFiles/ch.dir/chameleonhash.cpp.o: \
  /usr/local/include/cryptopp/secblockfwd.h \
  /usr/local/include/cryptopp/seckey.h \
  /usr/local/include/cryptopp/sha.h \
+ /usr/local/include/cryptopp/sha3.h \
  /usr/local/include/cryptopp/simple.h \
  /usr/local/include/cryptopp/smartptr.h \
  /usr/local/include/cryptopp/stdcpp.h \

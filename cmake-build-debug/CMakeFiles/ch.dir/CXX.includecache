@@ -13,6 +13,14 @@ cryptopp/osrng.h
 -
 cryptopp/nbtheory.h
 -
+cryptopp/cryptlib.h
+-
+cryptopp/sha3.h
+-
+cryptopp/algebra.h
+-
+time.h
+-
 iostream
 -
 
@@ -575,6 +583,14 @@ config.h
 /usr/local/include/cryptopp/config.h
 iterhash.h
 /usr/local/include/cryptopp/iterhash.h
+
+/usr/local/include/cryptopp/sha3.h
+cryptlib.h
+/usr/local/include/cryptopp/cryptlib.h
+secblock.h
+/usr/local/include/cryptopp/secblock.h
+misc.h
+/usr/local/include/cryptopp/misc.h
 
 /usr/local/include/cryptopp/simple.h
 config.h
