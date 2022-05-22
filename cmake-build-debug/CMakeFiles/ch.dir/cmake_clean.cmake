@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ch.dir/chameleonhash.cpp.o"
+  "CMakeFiles/ch.dir/chameleonhash.cpp.o.d"
   "ch"
   "ch.pdb"
 )
