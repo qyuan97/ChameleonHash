@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/ch.dir/chameleonhash.cpp.o -o ch   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lcryptopp 
